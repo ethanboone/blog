@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://ethanboone.github.io/blogsitemap.xml
